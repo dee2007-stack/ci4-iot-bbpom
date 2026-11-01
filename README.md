@@ -1,6 +1,7 @@
 # DigitLab - IoT Balai Besar POM di Bandung
 
-Digitalisasi Laboratorium Balai Besar Pengawas Obat dan Makanan di Bandung
+## Digitalisasi Laboratorium Balai Besar Pengawas Obat dan Makanan di Bandung
+
 
 ## Installation & updates
 
